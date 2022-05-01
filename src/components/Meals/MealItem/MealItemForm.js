@@ -1,4 +1,3 @@
-import MealItem from "./MealItem";
 import Input from "../../UI/Input";
 import classes from "./MealItemForm.module.css";
 
